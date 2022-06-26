@@ -1,5 +1,6 @@
 # CobraStegano
 Graduation project: software implementation for image steganography using the least significant bit method.
+
 This program has two lines of defense: first, there is the password. 
 The application hides the information not in all of the least significant bits in a row, 
 but only in those defined by our function, which takes our password as its argument. 
