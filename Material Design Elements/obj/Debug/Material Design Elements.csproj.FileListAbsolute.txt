@@ -1,0 +1,198 @@
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Material Design Elements\Material Design Elements\bin\Debug\Material Design Elements.exe.config
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Material Design Elements\Material Design Elements\bin\Debug\Material Design Elements.exe
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Material Design Elements\Material Design Elements\bin\Debug\Material Design Elements.pdb
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Material Design Elements\Material Design Elements\bin\Debug\MaterialSkin.dll
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Material Design Elements\Material Design Elements\obj\Debug\Material Design Elements.csprojResolveAssemblyReference.cache
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Material Design Elements\Material Design Elements\obj\Debug\Material_Design_Elements.Form1.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Material Design Elements\Material Design Elements\obj\Debug\Material_Design_Elements.Properties.Resources.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Material Design Elements\Material Design Elements\obj\Debug\Material Design Elements.csproj.GenerateResource.Cache
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Material Design Elements\Material Design Elements\obj\Debug\Material Design Elements.exe
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Material Design Elements\Material Design Elements\obj\Debug\Material Design Elements.pdb
+C:\My Files\Work\Youtube\Material Design Elements\Material Design Elements\bin\Debug\Material Design Elements.exe.config
+C:\My Files\Work\Youtube\Material Design Elements\Material Design Elements\obj\Debug\Material Design Elements.exe
+C:\My Files\Work\Youtube\Material Design Elements\Material Design Elements\obj\Debug\Material Design Elements.pdb
+C:\My Files\Work\Youtube\Material Design Elements\Material Design Elements\bin\Debug\Material Design Elements.exe
+C:\My Files\Work\Youtube\Material Design Elements\Material Design Elements\bin\Debug\Material Design Elements.pdb
+C:\My Files\Work\Youtube\Material Design Elements\Material Design Elements\bin\Debug\MaterialSkin.dll
+C:\My Files\Work\Youtube\Material Design Elements\Material Design Elements\obj\Debug\Material Design Elements.csprojResolveAssemblyReference.cache
+C:\My Files\Work\Youtube\Material Design Elements\Material Design Elements\obj\Debug\Material_Design_Elements.Form1.resources
+C:\My Files\Work\Youtube\Material Design Elements\Material Design Elements\obj\Debug\Material_Design_Elements.Properties.Resources.resources
+C:\My Files\Work\Youtube\Material Design Elements\Material Design Elements\obj\Debug\Material Design Elements.csproj.GenerateResource.Cache
+C:\Users\Оператор\Desktop\Material Design Elements\Material Design Elements\obj\Debug\Material_Design_Elements.MainForm.resources
+C:\Users\Оператор\Desktop\Material Design Elements\Material Design Elements\obj\Debug\Material_Design_Elements.Properties.Resources.resources
+C:\Users\Оператор\Desktop\Material Design Elements\Material Design Elements\obj\Debug\Material Design Elements.csproj.GenerateResource.cache
+C:\Users\Оператор\Desktop\Material Design Elements\Material Design Elements\obj\Debug\Material Design Elements.csproj.CoreCompileInputs.cache
+C:\Users\Оператор\Desktop\Material Design Elements\Material Design Elements\bin\Debug\MaterialSkin.dll
+C:\Users\Оператор\Desktop\Material Design Elements\Material Design Elements\obj\Debug\Material Design Elements.csproj.CopyComplete
+C:\Users\Оператор\Desktop\Material Design Elements\Material Design Elements\bin\Debug\CobraStegano.exe.config
+C:\Users\Оператор\Desktop\Material Design Elements\Material Design Elements\bin\Debug\CobraStegano.exe
+C:\Users\Оператор\Desktop\Material Design Elements\Material Design Elements\bin\Debug\CobraStegano.pdb
+C:\Users\Оператор\Desktop\Material Design Elements\Material Design Elements\obj\Debug\CobraStegano.exe
+C:\Users\Оператор\Desktop\Material Design Elements\Material Design Elements\obj\Debug\CobraStegano.pdb
+C:\Users\Администратор\Downloads\дипломная-20220526T143244Z-001\дипломная\Source\Material Design Elements\bin\Debug\CobraStegano.exe.config
+C:\Users\Администратор\Downloads\дипломная-20220526T143244Z-001\дипломная\Source\Material Design Elements\bin\Debug\CobraStegano.exe
+C:\Users\Администратор\Downloads\дипломная-20220526T143244Z-001\дипломная\Source\Material Design Elements\bin\Debug\CobraStegano.pdb
+C:\Users\Администратор\Downloads\дипломная-20220526T143244Z-001\дипломная\Source\Material Design Elements\bin\Debug\MaterialSkin.dll
+C:\Users\Администратор\Downloads\дипломная-20220526T143244Z-001\дипломная\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.AssemblyReference.cache
+C:\Users\Администратор\Downloads\дипломная-20220526T143244Z-001\дипломная\Source\Material Design Elements\obj\Debug\Material_Design_Elements.MainForm.resources
+C:\Users\Администратор\Downloads\дипломная-20220526T143244Z-001\дипломная\Source\Material Design Elements\obj\Debug\Material_Design_Elements.Properties.Resources.resources
+C:\Users\Администратор\Downloads\дипломная-20220526T143244Z-001\дипломная\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.GenerateResource.cache
+C:\Users\Администратор\Downloads\дипломная-20220526T143244Z-001\дипломная\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Downloads\дипломная-20220526T143244Z-001\дипломная\Source\Material Design Elements\obj\Debug\CobraStegano.exe
+C:\Users\Администратор\Downloads\дипломная-20220526T143244Z-001\дипломная\Source\Material Design Elements\obj\Debug\CobraStegano.pdb
+C:\Users\Администратор\Downloads\дипломная-20220526T143244Z-001\дипломная\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.CopyComplete
+C:\Users\Admin\Desktop\Source\Material Design Elements\bin\Debug\CobraStegano.exe.config
+C:\Users\Admin\Desktop\Source\Material Design Elements\bin\Debug\CobraStegano.exe
+C:\Users\Admin\Desktop\Source\Material Design Elements\bin\Debug\CobraStegano.pdb
+C:\Users\Admin\Desktop\Source\Material Design Elements\bin\Debug\MaterialSkin.dll
+C:\Users\Admin\Desktop\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Source\Material Design Elements\obj\Debug\Material_Design_Elements.MainForm.resources
+C:\Users\Admin\Desktop\Source\Material Design Elements\obj\Debug\Material_Design_Elements.Properties.Resources.resources
+C:\Users\Admin\Desktop\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.CopyComplete
+C:\Users\Admin\Desktop\Source\Material Design Elements\obj\Debug\CobraStegano.exe
+C:\Users\Admin\Desktop\Source\Material Design Elements\obj\Debug\CobraStegano.pdb
+C:\Users\lavre\Downloads\Source поправлен\Source\Material Design Elements\bin\Debug\CobraStegano.exe.config
+C:\Users\lavre\Downloads\Source поправлен\Source\Material Design Elements\bin\Debug\CobraStegano.exe
+C:\Users\lavre\Downloads\Source поправлен\Source\Material Design Elements\bin\Debug\CobraStegano.pdb
+C:\Users\lavre\Downloads\Source поправлен\Source\Material Design Elements\bin\Debug\MaterialSkin.dll
+C:\Users\lavre\Downloads\Source поправлен\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.AssemblyReference.cache
+C:\Users\lavre\Downloads\Source поправлен\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.SuggestedBindingRedirects.cache
+C:\Users\lavre\Downloads\Source поправлен\Source\Material Design Elements\obj\Debug\Material_Design_Elements.MainForm.resources
+C:\Users\lavre\Downloads\Source поправлен\Source\Material Design Elements\obj\Debug\Material_Design_Elements.Properties.Resources.resources
+C:\Users\lavre\Downloads\Source поправлен\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.GenerateResource.cache
+C:\Users\lavre\Downloads\Source поправлен\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.CoreCompileInputs.cache
+C:\Users\lavre\Downloads\Source поправлен\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.CopyComplete
+C:\Users\lavre\Downloads\Source поправлен\Source\Material Design Elements\obj\Debug\CobraStegano.exe
+C:\Users\lavre\Downloads\Source поправлен\Source\Material Design Elements\obj\Debug\CobraStegano.pdb
+C:\Users\lavre\Downloads\дипломная-20220528T180522Z-001\дипломная\Source\Material Design Elements\bin\Debug\CobraStegano.exe.config
+C:\Users\lavre\Downloads\дипломная-20220528T180522Z-001\дипломная\Source\Material Design Elements\bin\Debug\CobraStegano.exe
+C:\Users\lavre\Downloads\дипломная-20220528T180522Z-001\дипломная\Source\Material Design Elements\bin\Debug\CobraStegano.pdb
+C:\Users\lavre\Downloads\дипломная-20220528T180522Z-001\дипломная\Source\Material Design Elements\bin\Debug\MaterialSkin.dll
+C:\Users\lavre\Downloads\дипломная-20220528T180522Z-001\дипломная\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.AssemblyReference.cache
+C:\Users\lavre\Downloads\дипломная-20220528T180522Z-001\дипломная\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.SuggestedBindingRedirects.cache
+C:\Users\lavre\Downloads\дипломная-20220528T180522Z-001\дипломная\Source\Material Design Elements\obj\Debug\Material_Design_Elements.MainForm.resources
+C:\Users\lavre\Downloads\дипломная-20220528T180522Z-001\дипломная\Source\Material Design Elements\obj\Debug\Material_Design_Elements.Properties.Resources.resources
+C:\Users\lavre\Downloads\дипломная-20220528T180522Z-001\дипломная\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.GenerateResource.cache
+C:\Users\lavre\Downloads\дипломная-20220528T180522Z-001\дипломная\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.CoreCompileInputs.cache
+C:\Users\lavre\Downloads\дипломная-20220528T180522Z-001\дипломная\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.CopyComplete
+C:\Users\lavre\Downloads\дипломная-20220528T180522Z-001\дипломная\Source\Material Design Elements\obj\Debug\CobraStegano.exe
+C:\Users\lavre\Downloads\дипломная-20220528T180522Z-001\дипломная\Source\Material Design Elements\obj\Debug\CobraStegano.pdb
+C:\Users\lavre\Downloads\Программа-20220531T165746Z-001\Программа\Source\Material Design Elements\bin\Debug\CobraStegano.exe.config
+C:\Users\lavre\Downloads\Программа-20220531T165746Z-001\Программа\Source\Material Design Elements\bin\Debug\CobraStegano.exe
+C:\Users\lavre\Downloads\Программа-20220531T165746Z-001\Программа\Source\Material Design Elements\bin\Debug\CobraStegano.pdb
+C:\Users\lavre\Downloads\Программа-20220531T165746Z-001\Программа\Source\Material Design Elements\bin\Debug\MaterialSkin.dll
+C:\Users\lavre\Downloads\Программа-20220531T165746Z-001\Программа\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.AssemblyReference.cache
+C:\Users\lavre\Downloads\Программа-20220531T165746Z-001\Программа\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.SuggestedBindingRedirects.cache
+C:\Users\lavre\Downloads\Программа-20220531T165746Z-001\Программа\Source\Material Design Elements\obj\Debug\Material_Design_Elements.MainForm.resources
+C:\Users\lavre\Downloads\Программа-20220531T165746Z-001\Программа\Source\Material Design Elements\obj\Debug\Material_Design_Elements.Properties.Resources.resources
+C:\Users\lavre\Downloads\Программа-20220531T165746Z-001\Программа\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.GenerateResource.cache
+C:\Users\lavre\Downloads\Программа-20220531T165746Z-001\Программа\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.CoreCompileInputs.cache
+C:\Users\lavre\Downloads\Программа-20220531T165746Z-001\Программа\Source\Material Design Elements\obj\Debug\Material Design Elements.csproj.CopyComplete
+C:\Users\lavre\Downloads\Программа-20220531T165746Z-001\Программа\Source\Material Design Elements\obj\Debug\CobraStegano.exe
+C:\Users\lavre\Downloads\Программа-20220531T165746Z-001\Программа\Source\Material Design Elements\obj\Debug\CobraStegano.pdb
+C:\Users\Администратор\Desktop\Мишкина работа\Material Design Elements\bin\Debug\CobraStegano.exe.config
+C:\Users\Администратор\Desktop\Мишкина работа\Material Design Elements\bin\Debug\CobraStegano.exe
+C:\Users\Администратор\Desktop\Мишкина работа\Material Design Elements\bin\Debug\CobraStegano.pdb
+C:\Users\Администратор\Desktop\Мишкина работа\Material Design Elements\bin\Debug\MaterialSkin.dll
+C:\Users\Администратор\Desktop\Мишкина работа\Material Design Elements\obj\Debug\Material_Design_Elements.MainForm.resources
+C:\Users\Администратор\Desktop\Мишкина работа\Material Design Elements\obj\Debug\Material_Design_Elements.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Мишкина работа\Material Design Elements\obj\Debug\Material Design Elements.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\Мишкина работа\Material Design Elements\obj\Debug\Material Design Elements.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Мишкина работа\Material Design Elements\obj\Debug\CobraStegano.exe
+C:\Users\Администратор\Desktop\Мишкина работа\Material Design Elements\obj\Debug\CobraStegano.pdb
+C:\Users\Администратор\Desktop\Мишкина работа\Material Design Elements\obj\Debug\Material Design Elements.csproj.CopyComplete
+C:\Users\lavre\Downloads\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\CobraStegano.exe.config
+C:\Users\lavre\Downloads\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\CobraStegano.exe
+C:\Users\lavre\Downloads\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\CobraStegano.pdb
+C:\Users\lavre\Downloads\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\MaterialSkin.dll
+C:\Users\lavre\Downloads\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material Design Elements.csproj.AssemblyReference.cache
+C:\Users\lavre\Downloads\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material Design Elements.csproj.SuggestedBindingRedirects.cache
+C:\Users\lavre\Downloads\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material_Design_Elements.MainForm.resources
+C:\Users\lavre\Downloads\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material_Design_Elements.Properties.Resources.resources
+C:\Users\lavre\Downloads\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material Design Elements.csproj.GenerateResource.cache
+C:\Users\lavre\Downloads\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material Design Elements.csproj.CoreCompileInputs.cache
+C:\Users\lavre\Downloads\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material Design Elements.csproj.CopyComplete
+C:\Users\lavre\Downloads\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\CobraStegano.exe
+C:\Users\lavre\Downloads\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\CobraStegano.pdb
+C:\Users\Администратор\Desktop\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\CobraStegano.exe.config
+C:\Users\Администратор\Desktop\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\CobraStegano.exe
+C:\Users\Администратор\Desktop\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\CobraStegano.pdb
+C:\Users\Администратор\Desktop\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\MaterialSkin.dll
+C:\Users\Администратор\Desktop\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.Doc.dll
+C:\Users\Администратор\Desktop\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.Pdf.dll
+C:\Users\Администратор\Desktop\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\UseOffice.dll
+C:\Users\Администратор\Desktop\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Администратор\Desktop\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.Doc.xml
+C:\Users\Администратор\Desktop\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.Pdf.xml
+C:\Users\Администратор\Desktop\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\UseOffice.xml
+C:\Users\Администратор\Desktop\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material_Design_Elements.MainForm.resources
+C:\Users\Администратор\Desktop\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material_Design_Elements.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material Design Elements.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material Design Elements.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\CobraStegano.exe
+C:\Users\Администратор\Desktop\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\CobraStegano.pdb
+C:\Users\Администратор\Desktop\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\CobraStegano.exe.config
+C:\Users\Администратор\Desktop\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\CobraStegano.exe
+C:\Users\Администратор\Desktop\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\CobraStegano.pdb
+C:\Users\Администратор\Desktop\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\MaterialSkin.dll
+C:\Users\Администратор\Desktop\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.Doc.dll
+C:\Users\Администратор\Desktop\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.Pdf.dll
+C:\Users\Администратор\Desktop\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\UseOffice.dll
+C:\Users\Администратор\Desktop\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Администратор\Desktop\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.Doc.xml
+C:\Users\Администратор\Desktop\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.Pdf.xml
+C:\Users\Администратор\Desktop\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\UseOffice.xml
+C:\Users\Администратор\Desktop\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material Design Elements.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material_Design_Elements.MainForm.resources
+C:\Users\Администратор\Desktop\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material_Design_Elements.Properties.Resources.resources
+C:\Users\Администратор\Desktop\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material Design Elements.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material Design Elements.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\CobraStegano.exe
+C:\Users\Администратор\Desktop\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\CobraStegano.pdb
+C:\Users\Администратор\Desktop\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.License.dll
+C:\Users\Администратор\Desktop\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.License.xml
+C:\Users\Администратор\Desktop\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material Design Elements.csproj.CopyComplete
+C:\Users\Администратор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\CobraStegano.exe.config
+C:\Users\Администратор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\CobraStegano.exe
+C:\Users\Администратор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\CobraStegano.pdb
+C:\Users\Администратор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\MaterialSkin.dll
+C:\Users\Администратор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.Doc.dll
+C:\Users\Администратор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.License.dll
+C:\Users\Администратор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.Pdf.dll
+C:\Users\Администратор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\UseOffice.dll
+C:\Users\Администратор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Администратор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.Doc.xml
+C:\Users\Администратор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.License.xml
+C:\Users\Администратор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.Pdf.xml
+C:\Users\Администратор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\UseOffice.xml
+C:\Users\Администратор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material_Design_Elements.MainForm.resources
+C:\Users\Администратор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material_Design_Elements.Properties.Resources.resources
+C:\Users\Администратор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material Design Elements.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material Design Elements.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\CobraStegano.exe
+C:\Users\Администратор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\CobraStegano.pdb
+C:\Users\Администратор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material Design Elements.csproj.CopyComplete
+C:\Users\Оператор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\CobraStegano.exe.config
+C:\Users\Оператор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\CobraStegano.exe
+C:\Users\Оператор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\CobraStegano.pdb
+C:\Users\Оператор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\MaterialSkin.dll
+C:\Users\Оператор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.Doc.dll
+C:\Users\Оператор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.License.dll
+C:\Users\Оператор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\UseOffice.dll
+C:\Users\Оператор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.Pdf.dll
+C:\Users\Оператор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Оператор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.Doc.xml
+C:\Users\Оператор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.License.xml
+C:\Users\Оператор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\UseOffice.xml
+C:\Users\Оператор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\bin\Debug\Spire.Pdf.xml
+C:\Users\Оператор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material_Design_Elements.MainForm.resources
+C:\Users\Оператор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material_Design_Elements.Properties.Resources.resources
+C:\Users\Оператор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material Design Elements.csproj.GenerateResource.cache
+C:\Users\Оператор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material Design Elements.csproj.CoreCompileInputs.cache
+C:\Users\Оператор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material Design Elements.csproj.CopyComplete
+C:\Users\Оператор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\CobraStegano.exe
+C:\Users\Оператор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\CobraStegano.pdb
+C:\Users\Оператор\Desktop\1\17.06\Рабочий вариант до всей этой моей выдумки\Мишкина работа\Мишкина работа\Material Design Elements\obj\Debug\Material Design Elements.csproj.AssemblyReference.cache
